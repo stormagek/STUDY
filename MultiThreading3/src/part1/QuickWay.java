@@ -1,5 +1,5 @@
 package part1;
-
+/*Just  FuckIt Comment*/
 public class QuickWay {
 
 	public static void main(String[] args) {
